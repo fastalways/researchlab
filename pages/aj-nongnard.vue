@@ -1,0 +1,139 @@
+<template>
+  <div id="main-container">
+    <carosel />
+    <navbar />
+    <div id="main-content">
+      <v-container fluid>
+        <v-row no-gutters>
+          <v-col>
+            <div align="left" style="padding-left: 50px;">
+              <img
+                class="coe_logo"
+                src="~/assets/img/aj-nongnard.jpg"
+                width="365"
+                height="450"
+                alt="Nongnard  Rawangwong"
+              >
+            </div>
+            <div align="center">
+              <span class="white--text" align="center">
+                <h4>
+                  <div style="padding-top: 10px; text-align: left; padding-left: 30px;">Nongnard  Rawangwong
+                  </div>
+                </h4>
+                <li style="padding-left: 50px;padding-top: 10px;text-align: left;"><b>Present Position:</b> Lecturer
+                </li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>Dept.:</b> Computer Engineering
+                </li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>Faculty:</b> Engineering</li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>Rajamangala University of
+                  Technology Srivijaya</b></li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>E-mail (work) :</b>
+                  nongnard.r@rmutsv.ac.th</li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>Office Tel:</b> 0-7431-7168 </li>
+                <h4>
+                  <div style="padding-top: 10px; text-align: left; padding-left: 30px;">อ.นงนาฎ ระวังวงศ์</div>
+                </h4>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;text-align: left;">
+                  <b>ตำแหน่งปัจจุบัน:</b> อาจารย์</li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;text-align: left;"><b>สาขา:</b>
+                  วิศวกรรมคอมพิวเตอร์</li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;text-align: left;"><b>คณะ:</b>
+                  วิศวกรรมศาสตร์</li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;text-align: left;">
+                  <b>มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย</b></li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;text-align: left;"><b>E-mail (ทำงาน)
+                  :</b> nongnard.r@rmutsv.ac.th</li>
+                <li style="padding-left: 50px;padding-top: 4px;text-align: left;text-align: left;">
+                  <b>เบอร์โทรศัพท์สำนักงาน:</b> 0-7431-7168 </li>
+
+                <h4>
+                  <div style="padding-top: 15px;padding-left: 30px;text-align: left;">Google Site RMUTSV</div>
+                </h4>
+                <div style="padding-left: 50px;text-align: left;"><a
+                  href="https://nongnardr.sites.rmutsv.ac.th/"
+                  target="_blank"
+                >https://nongnardr.sites.rmutsv.ac.th/</a></div>
+                <h4>
+                  <div style="padding-top: 15px;padding-left: 30px;text-align: left;">Google Scholar</div>
+                </h4>
+              </span>
+            </div>
+          </v-col>
+          <v-col>
+            <div align="left">
+              <span class="white--text" align="left">
+                <h4>
+                  <div>Nongnard Rawangwong</div>
+                </h4>
+                <div> is presently a lecturer at <a href="http://coe.eng.rmutsv.ac.th" target="_blank">Computer
+                  Engineering,</a> <a href="https://eng.rmutsv.ac.th" target="_blank">Faculty of Engineering,</a> <a
+                  href="https://www.rmutsv.ac.th"
+                  target="_blank"
+                >Rajamangala University of Technology Srivijaya,</a>
+                </div>
+                <h4>
+                  <div style="padding-top:30px;padding-left:10px;"> Education: การศึกษา</div>
+                </h4>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>ปวช. อิเล็กทรอนิกส์</b> วิทยาลัยเทคนิคยะลา
+                </li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>ปวส. อิเล็กทรอนิกส์</b> สถาบันเทคโนโลยีราชมงคล สงขลา
+                </li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>ปริญญาตรี อิเล็กทรอนิกส์-คอมพิวเตอร์</b> สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+                </li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>ปริญญาโท เทคโนโลยีสารสนเทศ</b> สถาบันเทคโนโลยีพระจอมเกล้าพระนครเหนือ
+                </li>
+                <h4>
+                  <div style="padding-top:30px;padding-left:10px;"> Teaching Exprience:</div>
+                </h4>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Digital Circuits</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Digital Circuits Laboratory</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Digital System Design</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Digital System Laboratory</li>
+                <h4>
+                  <div style="padding-top:30px;padding-left:10px;"> Papers and Publications:</div>
+                </h4>
+              </span>
+            </div>
+          </v-col>
+        </v-row>
+      </v-container>
+    </div>
+    <vfooter />
+  </div>
+</template>
+
+<script>
+import Carosel from '../components/carosel.vue'
+import navbar from '../components/navbar.vue'
+import vfooter from '../components/vfooter.vue'
+export default {
+  components: { navbar, Carosel, vfooter }
+}
+</script>
+
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Prompt');
+
+    html,
+    body {
+      font-family: 'Prompt', sans-serif;
+    }
+
+    #main-container {
+      font-family: Prompt, Avenir, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      color: #2c3e50;
+      margin-top: 60px;
+      max-width: 1440px;
+      margin: auto;
+    }
+
+    #main-content {
+      min-height: 900px;
+      padding-top: 1%;
+      padding-left: 2%;
+      padding-right: 2%;
+    }
+    </style>
