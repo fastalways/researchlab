@@ -3,7 +3,7 @@
     <carosel />
     <navbar />
     <div id="main-content">
-        <research />
+      <research />
       <publications />
     </div>
     <vfooter />
