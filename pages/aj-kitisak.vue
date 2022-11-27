@@ -51,9 +51,9 @@
                   <div style="padding-top: 15px;padding-left: 30px;text-align: left;">Google Site RMUTSV</div>
                 </h4>
                 <div style="padding-left: 50px;text-align: left;"><a
-                  href="https://authaponk.sites.rmutsv.ac.th/"
+                  href="https://kitisakw.sites.rmutsv.ac.th/"
                   target="_blank"
-                >https://authaponk.sites.rmutsv.ac.th/</a></div>
+                >https://kitisakw.sites.rmutsv.ac.th/</a></div>
               </span>
             </div>
           </v-col>
