@@ -71,10 +71,8 @@
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Education:</div>
                 </h4>
-                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>M.Eng (Computer)</b> -
-                  2018 <b>Prince of Songkla University,</b> Thailand</li>
-                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>B.Eng (Computer)</b>Kasetsart University Thailand
-                </li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>M.Eng (Computer)</b> Kasetsart University, Thailand </li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>B.Eng (Computer)</b> Rajamangala Institute of Technology, Thailand</li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>Diploma (Technique Computer)</b> Rajamangala Institute of Technology, Thailand
                 </li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>Certificate (Electronics)</b> Rajamangala Institute of Technology (Southern Campus), Thailand
