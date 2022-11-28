@@ -73,9 +73,9 @@
                 </h4>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>M.Eng (Computer)</b> Kasetsart University, Thailand </li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>B.Eng (Computer)</b> Rajamangala Institute of Technology, Thailand</li>
-                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>Diploma (Technique Computer)</b> Rajamangala Institute of Technology, Thailand
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>Diploma (Technique Computer)</b> Rajamangala Institute of Technology (Southern Campus), Thailand
                 </li>
-                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>Certificate (Electronics)</b> Rajamangala Institute of Technology (Southern Campus), Thailand
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>Certificate (Electronics)</b> Hatyai Technical College, Thailand
                 </li>
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Teaching Exprience:</div>
@@ -93,6 +93,10 @@
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Pechsiri, C., Kongwan, A., & Kawtrakul, A. (2004). Agricultural knowledge discovery from semi-structured text. AFITA/WCCA, 2004, 117-125.</li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Kongwan, A., & Kawtrakul, A. (2005). Know-what: A Development of Object Property Extraction from Thai Texts and Query System. Proceedings of SNLP-2005, Bangkok, Thailand, 157-162.</li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">KONGWAN, A., KAMARUDDIN, S. S. B., & AHMAD, F. B. K. (2020). THAI EDU SEGMENTATION USING CLUE MARKERS AND SYNTACTIC INFORMATION FROM SHALLOW PARSER. Journal of Theoretical and Applied Information Technology, 98(18).</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">A. Kongwan, K. Watthanakul, C. Choosong, N. Rawangwong, P. Chalearnnetkul. "Development of Network Service Alert Using Telegram Bot", (การพัฒนาระบบแจ้งเตือนบริการทางเครือข่ายด้วยเทเลแกรมบอต) NCIT2022: The 14th National Conference on Information Technology
+                  10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">C. Choosong, K. Watthanakul, A. Kongwan, N. Rawangwong, P. Chalearnnetkul. "Improvementof Online Quiz System on Moodle with Scaling Up PHP-FPM node in Docker Swarm Cluster", (การเพิ่มประสิทธิภาพของระบบการทำข้อสอบบนมูเดิลด้วยการขยายจำนวนโหนดPHP-FPMในDocker Swarm Cluster) NCIT2022: The 14th National Conference on Information Technology
+                  10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Work Experiences:</div>
                 </h4>

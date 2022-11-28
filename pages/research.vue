@@ -2,10 +2,8 @@
   <div id="main-container">
     <carosel />
     <navbar />
-    <div id="main-content">
-      <research />
-      <publications />
-    </div>
+    <research />
+    <publications />
     <vfooter />
   </div>
 </template>

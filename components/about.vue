@@ -2,12 +2,12 @@
   <div>
     <div>
       <b-card
-        title="Publications"
+        title="About Hydra Research Lab"
         tag="article"
         class="mb-2"
       >
         <div>
-          <b-card bg-variant="light" header="National Conference Proceeding" class="text-left">
+          <b-card bg-variant="light" header="SMART DIGITAL INNOVATION LAB" class="text-left">
             <b-card-text>
               • C. Choosong, K. Watthanakul, A. Kongwan, N. Rawangwong, P. Chalearnnetkul. "Improvementof Online Quiz System on Moodle with Scaling Up PHP-FPM node in Docker Swarm Cluster", (การเพิ่มประสิทธิภาพของระบบการทำข้อสอบบนมูเดิลด้วยการขยายจำนวนโหนดPHP-FPMในDocker Swarm Cluster) NCIT2022: The 14th National Conference on Information Technology
               10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022. <a href="" target="_blank">readmore</a>

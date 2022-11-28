@@ -136,6 +136,12 @@
                   "High Level Fusion of Profile-Based Human Action Recognition using Multi-view RGBD Information," in
                   Proceedings of the International Joint Conference on Computer Science and Software Engineering, JCSSE
                   2015, 2015, pp. 36–40.</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;"><b>National Conferences</b></li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">ธวัทชัย กาฬวงค์, สิทธิโชค อุ่นแก้ว, พงศกร เจริญเนตรกุล, นงนาฎ ระวังวงศ์ และ กิติศักดิ์ วัฒนกุล. “หุ่นยนต์เคลื่อนที่ตามคําสั่งมือ,” The 10th Asia Undergraduate Conference on Computing (AUC2), Kasetsart University, pp.2209-2217, 2022.</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">A. Kongwan, K. Watthanakul, C. Choosong, N. Rawangwong, P. Chalearnnetkul. "Development of Network Service Alert Using Telegram Bot", (การพัฒนาระบบแจ้งเตือนบริการทางเครือข่ายด้วยเทเลแกรมบอต) NCIT2022: The 14th National Conference on Information Technology
+                  10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">C. Choosong, K. Watthanakul, A. Kongwan, N. Rawangwong, P. Chalearnnetkul. "Improvementof Online Quiz System on Moodle with Scaling Up PHP-FPM node in Docker Swarm Cluster", (การเพิ่มประสิทธิภาพของระบบการทำข้อสอบบนมูเดิลด้วยการขยายจำนวนโหนดPHP-FPMในDocker Swarm Cluster) NCIT2022: The 14th National Conference on Information Technology
+                  10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Work Experience:</div>
                 </h4>

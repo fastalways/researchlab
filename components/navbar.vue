@@ -32,17 +32,20 @@
             </b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item-dropdown text="Dataset">
-            <b-dropdown-item href="/">
-              Dataset 1
+            <b-dropdown-item href="/alldataset">
+              > All Datasets
             </b-dropdown-item>
-            <b-dropdown-item href="/">
-              Dataset 2
+            <b-dropdown-item href="/dataset/topview-depth-human-action-dataset">
+              Topview Depth Image of Human Actions
             </b-dropdown-item>
-            <b-dropdown-item href="/">
-              Dataset 3
+            <b-dropdown-item href="/dataset/medical-waste-dataset">
+              Medical Waste Dataset
             </b-dropdown-item>
-            <b-dropdown-item href="/">
-              Dataset 4
+            <b-dropdown-item href="/dataset/recycle-waste-dataset">
+              Recycle Waste Dataset
+            </b-dropdown-item>
+            <b-dropdown-item href="/dataset/cavendish-banana-dataset">
+              Cavendish Banana for Ripening Dataset
             </b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item href="/project">

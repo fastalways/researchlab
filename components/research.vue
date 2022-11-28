@@ -7,15 +7,15 @@
         class="mb-2"
       >
         <div>
-          <b-card bg-variant="light" header="International Conference Proceeding" class="text-left">
+          <b-card bg-variant="light" header="Currently Research" class="text-left">
             <b-card-text>• N/A</b-card-text>
           </b-card>
           <br>
-          <b-card bg-variant="light" header="National Journal" class="text-left">
+          <b-card bg-variant="light" header="Scope of Research" class="text-left">
             <b-card-text>• N/A</b-card-text>
           </b-card>
           <br>
-          <b-card bg-variant="light" header="International Journal" class="text-left">
+          <b-card bg-variant="light" header="List of Researches" class="text-left">
             <b-card-text>• N/A</b-card-text>
           </b-card>
         </div>

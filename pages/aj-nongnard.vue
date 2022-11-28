@@ -93,6 +93,10 @@
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Papers and Publications:</div>
                 </h4>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">A. Kongwan, K. Watthanakul, C. Choosong, N. Rawangwong, P. Chalearnnetkul. "Development of Network Service Alert Using Telegram Bot", (การพัฒนาระบบแจ้งเตือนบริการทางเครือข่ายด้วยเทเลแกรมบอต) NCIT2022: The 14th National Conference on Information Technology
+                  10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">C. Choosong, K. Watthanakul, A. Kongwan, N. Rawangwong, P. Chalearnnetkul. "Improvementof Online Quiz System on Moodle with Scaling Up PHP-FPM node in Docker Swarm Cluster", (การเพิ่มประสิทธิภาพของระบบการทำข้อสอบบนมูเดิลด้วยการขยายจำนวนโหนดPHP-FPMในDocker Swarm Cluster) NCIT2022: The 14th National Conference on Information Technology
+                  10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
               </span>
             </div>
           </v-col>
