@@ -2,32 +2,34 @@
   <div>
     <div>
       <b-card
-        title="About Hydra Research Lab"
         tag="article"
         class="mb-2"
       >
         <div>
-          <b-card bg-variant="light" header="SMART DIGITAL INNOVATION LAB" class="text-left">
+          <b-card
+            bg-variant="light"
+            title="Hydra Research Lab - Smart Digital Innovation Lab"
+            class="text-left text-dark fs-1 fw-bold"
+          >
+          <img src="~/assets/img/hydra_research_logo.png" width="20%">
             <b-card-text>
-              • C. Choosong, K. Watthanakul, A. Kongwan, N. Rawangwong, P. Chalearnnetkul. "Improvementof Online Quiz System on Moodle with Scaling Up PHP-FPM node in Docker Swarm Cluster", (การเพิ่มประสิทธิภาพของระบบการทำข้อสอบบนมูเดิลด้วยการขยายจำนวนโหนดPHP-FPMในDocker Swarm Cluster) NCIT2022: The 14th National Conference on Information Technology
-              10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022. <a href="" target="_blank">readmore</a>
-            </b-card-text>
-            <b-card-text>
-              • A. Kongwan, K. Watthanakul, C. Choosong, N. Rawangwong, P. Chalearnnetkul. "Development of Network Service Alert Using Telegram Bot", (การพัฒนาระบบแจ้งเตือนบริการทางเครือข่ายด้วยเทเลแกรมบอต) NCIT2022: The 14th National Conference on Information Technology
-              10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022. <a href="" target="_blank">readmore</a>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hydra Research Lab was founded in 2022 by a group of researchers, from Computer Engineering, Faculty of Engineering, Rajamangala University of Technology Srivijaya, with varied expertise in Hardware, Software, Information Technology, IoT, Networks, Cloud Computing, and Artificial Intelligence that aim to develop digital innovations which combine the artificial intelligence of the future.
             </b-card-text>
           </b-card>
           <br>
-          <b-card bg-variant="light" header="International Conference Proceeding" class="text-left">
-            <b-card-text>• N/A</b-card-text>
-          </b-card>
-          <br>
-          <b-card bg-variant="light" header="National Journal" class="text-left">
-            <b-card-text>• N/A</b-card-text>
-          </b-card>
-          <br>
-          <b-card bg-variant="light" header="International Journal" class="text-left">
-            <b-card-text>• N/A</b-card-text>
+          <b-card bg-variant="light" header="Scope of Interrest" class="text-left">
+            <b-card-text>• Software Engineering and Software Development</b-card-text>
+            <b-card-text>• Software Engineering and Software Development</b-card-text>
+            <b-card-text>• Image Processing and Computer Vision</b-card-text>
+            <b-card-text>• Data Science</b-card-text>
+            <b-card-text>• Cloud Computing</b-card-text>
+            <b-card-text>• Internet of Things and Embedded Systems</b-card-text>
+            <b-card-text>• Cybersecurity</b-card-text>
+            <b-card-text>• IT Project and IT Service Management</b-card-text>
+            <b-card-text>• Computer Networks and Communications</b-card-text>
+            <b-card-text>• Machine Learning and Intelligent Systems</b-card-text>
+            <b-card-text>• Computer Educational Technology</b-card-text>
+            <b-card-text>• Agricultural, Environmental and Industrial Innovation</b-card-text>
           </b-card>
         </div>
       </b-card>

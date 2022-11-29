@@ -2,8 +2,9 @@
   <div id="main-container">
     <carosel />
     <navbar />
-    <research />
     <publications />
+    <about />
+    <research />
     <vfooter />
   </div>
 </template>
@@ -13,8 +14,9 @@ import Carosel from '../components/carosel.vue'
 import navbar from '../components/navbar.vue'
 import vfooter from '../components/vfooter.vue'
 import publications from '../components/publications.vue'
+import about from '../components/about.vue'
 export default {
-  components: { navbar, Carosel, vfooter, publications }
+  components: { navbar, Carosel, vfooter, publications, about }
 }
 </script>
 
