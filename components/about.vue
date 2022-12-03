@@ -11,7 +11,7 @@
             title="Hydra Research Lab - Smart Digital Innovation Lab"
             class="text-left text-dark fs-1 fw-bold"
           >
-          <img src="~/assets/img/hydra_research_logo.png" width="20%">
+            <img src="~/assets/img/hydra_research_logo.png" width="20%">
             <b-card-text>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hydra Research Lab was founded in 2022 by a group of researchers, from Computer Engineering, Faculty of Engineering, Rajamangala University of Technology Srivijaya, with varied expertise in Hardware, Software, Information Technology, IoT, Networks, Cloud Computing, and Artificial Intelligence that aim to develop digital innovations which combine the artificial intelligence of the future.
             </b-card-text>

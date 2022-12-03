@@ -5,9 +5,7 @@
       tag="article"
       class="mb-2"
     >
-      <div>
-        <b-card bg-variant="light" header="Medical Waste Dataset" class="text-left" />
-      </div>
+      <h3>Medical Waste Dataset</h3>
     </b-card>
   </div>
 </template>
