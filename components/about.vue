@@ -19,7 +19,6 @@
           <br>
           <b-card bg-variant="light" header="Scope of Interrest" class="text-left">
             <b-card-text>• Software Engineering and Software Development</b-card-text>
-            <b-card-text>• Software Engineering and Software Development</b-card-text>
             <b-card-text>• Image Processing and Computer Vision</b-card-text>
             <b-card-text>• Data Science</b-card-text>
             <b-card-text>• Cloud Computing</b-card-text>
