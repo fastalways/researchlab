@@ -108,7 +108,7 @@
                   Industial/Health-carePromotion/Agicultural</li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Machine Learning </li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Computer Programming</li>
-                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Artificaial Intelligence</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">Artificial Intelligence</li>
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Teaching Exprience:</div>
                 </h4>
