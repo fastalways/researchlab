@@ -30,6 +30,9 @@
             <b-dropdown-item href="/aj-pongsagorn">
               Pongsagorn Chalearnnetkul
             </b-dropdown-item>
+            <b-dropdown-item href="/aj-nattapon">
+              Nattapon Noorit
+            </b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item-dropdown text="Dataset">
             <b-dropdown-item href="/alldataset">

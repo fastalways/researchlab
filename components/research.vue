@@ -35,6 +35,7 @@
             <a href="./aj-authapon/" target="_blank"><b-card-text>• Authapon Kongwan</b-card-text></a>
             <a href="./aj-kitisak/" target="_blank"><b-card-text>• Kitisak Wattanakul</b-card-text></a>
             <a href="./aj-pongsagorn/" target="_blank"><b-card-text>• Pongsagorn Chalearnnetkul</b-card-text></a>
+            <a href="./aj-nattapon/" target="_blank"><b-card-text>• Nattapon Noorit</b-card-text></a>
           </b-card>
         </div>
       </b-card>
