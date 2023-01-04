@@ -52,7 +52,7 @@
                 <div style="padding-left: 50px;text-align: left;"><a
                   href="https://nattaponn.sites.rmutsv.ac.th/"
                   target="_blank"
-                >https://pongsagornch.sites.rmutsv.ac.th/</a></div>
+                >https://nattaponn.sites.rmutsv.ac.th/</a></div>
               </span>
             </div>
           </v-col>
@@ -60,7 +60,7 @@
             <div align="left">
               <span class="white--text" align="left">
                 <h4>
-                  <div>Pongsagorn Chalearnnetkul</div>
+                  <div>Nattapon Noorit</div>
                 </h4>
                 <div> is presently a lecturer at <a href="http://coe.eng.rmutsv.ac.th" target="_blank">Computer
                   Engineering,</a> <a href="https://eng.rmutsv.ac.th" target="_blank">Faculty of Engineering,</a> <a
