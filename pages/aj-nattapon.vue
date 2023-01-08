@@ -29,7 +29,7 @@
                 <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>Rajamangala University of
                   Technology Srivijaya</b></li>
                 <li style="padding-left: 50px;padding-top: 4px;text-align: left;"><b>E-mail (work) :</b>
-                    nattapon.n@rmusv.ac.th</li>
+                  nattapon.n@rmusv.ac.th</li>
                 <h4>
                   <div style="padding-top: 10px; text-align: left; padding-left: 30px;">อ.ณัฐพล หนูฤทธิ</div>
                 </h4>

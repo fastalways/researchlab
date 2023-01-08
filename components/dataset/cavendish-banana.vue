@@ -18,7 +18,7 @@
     <p>1. The dataset must be only used for non-commercial or educational purposes.</p>
     <p>2. No responsibility or any guarantee for any incidents, or damages caused by the direct or indirect usage of this dataset.</p>
     <p>3. This dataset is copyright of <a href="https://www.rmutsv.ac.th" target="_blank">Rajamangala University of Technology Srivijaya</a>,for commercial usage please contact <a href="http://tlo.rmutsv.ac.th/tlo/">Technology Licensing Office</a>.</p>
-    <p>4. If you used the dataset, please consider to referencing paper [Automatic Cavendish Banana Ripening using Digital Image Processing and Deep Learning].</p>
+    <p>4. If you used the dataset, please consider to referencing paper [การจำแนกระดับความสุกของกล้วยหอมอัตโนมัติด้วยการประมวลผลภาพดิจิทัลและการเรียนรู้เชิงลึก - Ripeness Level Classification of Cavendish Banana Using Digital Image Processing and Deep Learning].</p>
     <table>
       <tr>
         <th>Item</th>
@@ -33,7 +33,7 @@
           </b-button>
         </td>
         <td>
-          <b-button href="https://drive.google.com/file/d/12y3W21vPrVRkRRz5mNxnOje1WiXpdSsj/view?usp=sharing" target="_blank" variant="success">
+          <b-button href="https://drive.google.com/drive/folders/1lKkcf7iSfVh2fgPrJ4iBEYIMybTGo5f4?usp=sharing" target="_blank" variant="success">
             Download
           </b-button>
         </td>
@@ -41,12 +41,12 @@
       <tr>
         <td>8 Levels of TextureImage</td>
         <td>
-          <b-button href="https://dataset.gezdev.com/CavendishBanana/BananaDatasetDiscreteTextureImage.tar.g" variant="success">
+          <b-button href="https://dataset.gezdev.com/CavendishBanana/BananaDatasetDiscreteTextureImage.tar.gz" variant="success">
             Download
           </b-button>
         </td>
         <td>
-          <b-button href="https://drive.google.com/file/d/12wTHTAuzmkvjOHnlLgIJPFL-8sC6kLW8/view?usp=sharing" target="_blank" variant="success">
+          <b-button href="https://drive.google.com/drive/folders/1lKkcf7iSfVh2fgPrJ4iBEYIMybTGo5f4?usp=sharing" target="_blank" variant="success">
             Download
           </b-button>
         </td>
@@ -59,7 +59,7 @@
           </b-button>
         </td>
         <td>
-          <b-button href="https://drive.google.com/file/d/12y3W21vPrVRkRRz5mNxnOje1WiXpdSsj/view?usp=sharing" target="_blank" variant="success">
+          <b-button href="https://drive.google.com/drive/folders/1lKkcf7iSfVh2fgPrJ4iBEYIMybTGo5f4?usp=sharing" target="_blank" variant="success">
             Download
           </b-button>
         </td>
@@ -72,7 +72,7 @@
           </b-button>
         </td>
         <td>
-          <b-button href="https://drive.google.com/file/d/12pPQsCL_VNqQKu1mUbLAqhrf9V-LqpUn/view?usp=sharing" target="_blank" variant="success">
+          <b-button href="https://drive.google.com/drive/folders/1lKkcf7iSfVh2fgPrJ4iBEYIMybTGo5f4?usp=sharing" target="_blank" variant="success">
             Download
           </b-button>
         </td>
