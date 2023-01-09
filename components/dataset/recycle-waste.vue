@@ -5,9 +5,8 @@
       tag="article"
       class="mb-2"
     >
-      <div>
-        <b-card bg-variant="light" header="Recycle Waste Dataset" class="text-left" />
-      </div>
+      <b-card bg-variant="light" header="Recycle Waste Dataset" class="text-left" />
+      <b-card-text>Waiting for Labeling 20/100%</b-card-text>
     </b-card>
   </div>
 </template>

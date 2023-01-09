@@ -7,10 +7,10 @@
       tag="article"
       class="mb-2"
     >
-      <TopviewDepthHumanAction />
-      <MedicalWaste />
-      <RecycleWaste />
       <CavendishBanana />
+      <MedicalWaste />
+      <TopviewDepthHumanAction />
+      <RecycleWaste />
     </b-card>
     <vfooter />
   </div>
@@ -26,7 +26,7 @@ import MedicalWaste from '../components/dataset/medical-waste.vue'
 import RecycleWaste from '../components/dataset/recycle-waste.vue'
 import CavendishBanana from '../components/dataset/cavendish-banana.vue'
 export default {
-  components: { navbar, Carosel, vfooter, TopviewDepthHumanAction, MedicalWaste, RecycleWaste, CavendishBanana }
+  components: { navbar, Carosel, vfooter, CavendishBanana, MedicalWaste, TopviewDepthHumanAction, RecycleWaste }
 }
 </script>
 
