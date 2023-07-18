@@ -16,6 +16,9 @@
               • A. Kongwan, K. Watthanakul, C. Choosong, N. Rawangwong, P. Chalearnnetkul. "Development of Network Service Alert Using Telegram Bot", (การพัฒนาระบบแจ้งเตือนบริการทางเครือข่ายด้วยเทเลแกรมบอต) NCIT2022: The 14th National Conference on Information Technology
               10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022. <a href="" target="_blank">readmore</a>
             </b-card-text>
+            <b-card-text>
+              • พงศกร เจริญเนตรกุล, นงนาฎ ระวังวงศ์, ชัยสิทธิ์ ชูสงค์, อรรถพล คงหวาน, กิติศักดิ์ วัฒนกุล,ณัฐพล หนูฤทธิ การจำแนกระดับความสุกของกล้วยหอมอัตโนมัติด้วยการประมวลผลภาพดิจิทัลและการเรียนรู้เชิงลึก,นวัตกรรมและเทคโนโลยีสร้างสรรค์เพื่อพัฒนาชุมชนอัจฉริยะ (ETCI-CARD-2023), ครั้งที่ 15,  หน้าที่ 31 - 35, 2566 <a href="" target="_blank">readmore</a>
+            </b-card-text>
           </b-card>
           <br>
           <b-card bg-variant="light" header="International Conference Proceeding" class="text-left">
