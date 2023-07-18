@@ -101,6 +101,7 @@
                 </li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">N. Noorit, N. Suvonvorn and M. Karnchanadecha, “Model-based Human Action Recognition,” In Proceedings of SPIE the 2nd International Conference on Digital Image Processing, Singapore, 26th-28th February 2010, pp. 7546P-1 - 7546P-6.
                 </li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">พงศกร เจริญเนตรกุล, นงนาฎ ระวังวงศ์, ชัยสิทธิ์ ชูสงค์, อรรถพล คงหวาน, กิติศักดิ์ วัฒนกุล,ณัฐพล หนูฤทธิ การจำแนกระดับความสุกของกล้วยหอมอัตโนมัติด้วยการประมวลผลภาพดิจิทัลและการเรียนรู้เชิงลึก,นวัตกรรมและเทคโนโลยีสร้างสรรค์เพื่อพัฒนาชุมชนอัจฉริยะ (ETCI-CARD-2023), ครั้งที่ 15,  หน้าที่ 31 - 35</li>
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Work Experience:</div>
                 </h4>
