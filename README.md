@@ -15,6 +15,10 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# auto fix lint
+$ npm run lintfix
+
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).

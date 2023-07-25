@@ -79,6 +79,19 @@
         </tr>
       </table>
       <br>
+      <h3>Prediction Demo</h3>
+      <br>
+      <b-button href="https://medwaste-ai.gezdev.com/" target="_blank" variant="warning">
+        LiveDemoClickHere
+      </b-button>
+      <img
+        class="coe_logo"
+        width="40%"
+        src="~/assets/img/dataset/DemoMedWaste.png"
+        alt="DemoMedWaste.png"
+      >
+      <br>
+      <br>
       <h3>Gallery</h3>
       <h5>41 Classes of Medical Waste in the dataset</h5>
       <img
