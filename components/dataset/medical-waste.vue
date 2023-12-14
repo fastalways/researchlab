@@ -18,7 +18,7 @@
       <p>1. The dataset must be only used for non-commercial or educational purposes.</p>
       <p>2. No responsibility or any guarantee for any incidents, or damages caused by the direct or indirect usage of this dataset.</p>
       <p>3. This dataset is copyright of <a href="https://www.rmutsv.ac.th" target="_blank">Rajamangala University of Technology Srivijaya</a>,for commercial usage please contact <a href="http://tlo.rmutsv.ac.th/tlo/">Technology Licensing Office</a>.</p>
-      <p>4. If you used the dataset, please consider to referencing paper [ xxxx  waiting publication... ].</p>
+      <p>4. If you used the dataset, please consider to referencing paper [พงศกร เจริญเนตรกุล, กิติศักดิ์ วัฒนกุล, ชัยสิทธิ์ ชูสงค์, นงนาฎ ระวังวงศ์, อรรถพล คงหวาน, ณัฐพล หนูฤทธิ "การแยกประเภทภาพขยะทางการแพทย์ด้วยการเรียนรู้เชิงลึก Medical Waste Image Classification Using Deep Learning",THE 46TH ELECTRICAL ENGINEERING CONFERENCE (EECON-46), pp. 312 - 315, 2566.].</p>
       <table>
         <tr>
           <th>Item</th>

@@ -104,6 +104,7 @@
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">C. Choosong, K. Watthanakul, A. Kongwan, N. Rawangwong, P. Chalearnnetkul. "Improvementof Online Quiz System on Moodle with Scaling Up PHP-FPM node in Docker Swarm Cluster", (การเพิ่มประสิทธิภาพของระบบการทำข้อสอบบนมูเดิลด้วยการขยายจำนวนโหนดPHP-FPMในDocker Swarm Cluster) NCIT2022: The 14th National Conference on Information Technology
                   10 - 11 November 2022, Nonthaburi, Thailand(NCIT), 2022.</li>
                 <li style="padding-left: 10px;padding-top: 4px;text-align: left;">พงศกร เจริญเนตรกุล, นงนาฎ ระวังวงศ์, ชัยสิทธิ์ ชูสงค์, อรรถพล คงหวาน, กิติศักดิ์ วัฒนกุล,ณัฐพล หนูฤทธิ การจำแนกระดับความสุกของกล้วยหอมอัตโนมัติด้วยการประมวลผลภาพดิจิทัลและการเรียนรู้เชิงลึก,นวัตกรรมและเทคโนโลยีสร้างสรรค์เพื่อพัฒนาชุมชนอัจฉริยะ (ETCI-CARD-2023), ครั้งที่ 15,  หน้าที่ 31 - 35</li>
+                <li style="padding-left: 10px;padding-top: 4px;text-align: left;">พงศกร เจริญเนตรกุล, กิติศักดิ์ วัฒนกุล, ชัยสิทธิ์ ชูสงค์, นงนาฎ ระวังวงศ์, อรรถพล คงหวาน, ณัฐพล หนูฤทธิ "การแยกประเภทภาพขยะทางการแพทย์ด้วยการเรียนรู้เชิงลึก",การประชุมวิชาการทางวิศวกรรมไฟฟ้า (EECON-46), ครั้งที่ 46, หน้าที่ 312 - 315, 2566.</li>
                 <h4>
                   <div style="padding-top:30px;padding-left:10px;"> Certification:</div>
                 </h4>
