@@ -17,7 +17,7 @@
       <p>1. The dataset must be only used for non-commercial or educational purposes.</p>
       <p>2. No responsibility or any guarantee for any incidents, or damages caused by the direct or indirect usage of this dataset.</p>
       <p>3. This dataset is copyright of <a href="https://www.rmutsv.ac.th" target="_blank">Rajamangala University of Technology Srivijaya</a>,for commercial usage please contact <a href="http://tlo.rmutsv.ac.th/tlo/">Technology Licensing Office</a>.</p>
-      <p>4. If you used the dataset, please consider to referencing paper [waiting publication... การจำแนกระดับความสุกของกล้วยหอมอัตโนมัติด้วยการประมวลผลภาพดิจิทัลและการเรียนรู้เชิงลึก - Ripeness Level Classification of Cavendish Banana Using Digital Image Processing and Deep Learning].</p>
+      <p>4. If you used the dataset, please consider to referencing paper [พงศกร เจริญเนตรกุล, นงนาฎ ระวังวงศ์, ชัยสิทธิ์ ชูสงค์, อรรถพล คงหวาน, กิติศักดิ์ วัฒนกุล,ณัฐพล หนูฤทธิ Ripeness Level Classification of Cavendish Banana Using Digital Image Processing and Deep Learning การจำแนกระดับความสุกของกล้วยหอมอัตโนมัติด้วยการประมวลผลภาพดิจิทัลและการเรียนรู้เชิงลึก, ETCI-CARD-2023, ครั้งที่ 15, pp. 31 - 35, 2023].</p>
       <table>
         <tr>
           <th>Item</th>
